@@ -198,6 +198,7 @@ namespace Lab_1_2
      /// <param name="result">
      /// gets the string with result
      /// </param>
+     /// по коням
         public static void Print(string result)
         {
             string path = "C:\\Users\\Tim\\source\\repos\\Lab_1_2\\Lab_1_2\\Dominant_Probability.txt";
@@ -209,4 +210,5 @@ namespace Lab_1_2
             }
         }
     }
+    //some comments below 
 }
