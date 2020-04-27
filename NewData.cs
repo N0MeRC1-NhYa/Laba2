@@ -22,5 +22,21 @@ namespace RepLab_2
                     return 110011;
             } 
         }
+        public string newOper(char c)
+        {
+            switch (c)
+            {
+                case '!':
+                    return "factorial";
+                case '^':
+                    return "stepen";
+                case 's' : 
+                    return "square root";
+                default:
+                    return "Duno";
+                        
+
+            }
+        }
     }
 }
