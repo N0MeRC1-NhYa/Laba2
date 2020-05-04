@@ -185,6 +185,7 @@ namespace Lab_1_2
             return fileText[0];
         }
     }
+    //Comment new
 
 
 
